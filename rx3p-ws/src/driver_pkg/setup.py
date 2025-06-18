@@ -20,8 +20,9 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'buzzer_listener = driver_pkg.TestDriver:main',
-            'gripper_listener = driver_pkg.gripper_ctrl:main'
+            'buzzer_listener = driver_pkg.Test_Buzzer:main',
+            'gripper_listener = driver_pkg.gripper_ctrl:main',
+            'test_params = driver_pkg.Test_params:init_node'
         ],
     },
 )
