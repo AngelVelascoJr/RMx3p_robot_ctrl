@@ -12,7 +12,7 @@ class RobotParamSrv(Node):
         self.add_on_set_parameters_callback(self._on_set_params_callback)
         self.get_logger().info("Param node working")
 
-    def _on_set_params_callback(self, params:list[Parameter]):
+    def _on_set_params_callback(self, params): #params:list[Parameter]
         success_flag = True
         for param in params:
             if param.name == "sample_timer":
