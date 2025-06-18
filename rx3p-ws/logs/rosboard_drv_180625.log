@@ -1,0 +1,7 @@
+[DEBUG] [2025-06-18 12:31:08,626]: commmand delay setting to 0.002 seg.
+[DEBUG] [2025-06-18 12:31:08,627]: Opened serial port /dev/ttyUSB1 at 115200 baud.
+[DEBUG] [2025-06-18 12:31:08,627]: ON set_uart_servo_torque: executed [255, 252, 4, 34, 1, 39]
+[DEBUG] [2025-06-18 12:45:26,040]: ON set_beep: executed [255, 252, 5, 2, 144, 1, 152]
+[DEBUG] [2025-06-18 12:45:27,064]: ON set_beep: executed [255, 252, 5, 2, 144, 1, 152]
+[DEBUG] [2025-06-18 12:45:28,088]: ON set_beep: executed [255, 252, 5, 2, 144, 1, 152]
+[DEBUG] [2025-06-18 12:45:29,111]: ON set_beep: executed [255, 252, 5, 2, 144, 1, 152]
