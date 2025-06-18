@@ -1,0 +1,18 @@
+[DEBUG] [2025-04-01 15:04:33,628]: commmand delay setting to 0.002 seg.
+[DEBUG] [2025-04-01 15:04:33,630]: Opened serial port /dev/ttyUSB0 at 115200 baud.
+[DEBUG] [2025-04-01 15:04:33,631]: ON set_uart_servo_torque: executed [255, 252, 4, 34, 1, 39]
+[INFO] [2025-04-01 15:04:33,636]: Started data reception thread.
+[DEBUG] [2025-04-01 15:04:33,686]: ON set_beep: executed [255, 252, 5, 2, 244, 1, 252]
+[DEBUG] [2025-04-01 15:04:34,696]: Destructor called, serial connection closed.
+[DEBUG] [2025-04-01 15:06:01,783]: commmand delay setting to 0.002 seg.
+[DEBUG] [2025-04-01 15:06:01,784]: Opened serial port /dev/ttyUSB0 at 115200 baud.
+[DEBUG] [2025-04-01 15:06:01,785]: ON set_uart_servo_torque: executed [255, 252, 4, 34, 1, 39]
+[INFO] [2025-04-01 15:06:01,790]: Started data reception thread.
+[DEBUG] [2025-04-01 15:06:01,844]: ON set_beep: executed [255, 252, 5, 2, 244, 1, 252]
+[DEBUG] [2025-04-01 15:06:02,859]: Destructor called, serial connection closed.
+[DEBUG] [2025-04-01 15:08:13,981]: commmand delay setting to 0.002 seg.
+[DEBUG] [2025-04-01 15:08:13,982]: Opened serial port /dev/ttyUSB0 at 115200 baud.
+[DEBUG] [2025-04-01 15:08:13,983]: ON set_uart_servo_torque: executed [255, 252, 4, 34, 1, 39]
+[INFO] [2025-04-01 15:08:13,988]: Started data reception thread.
+[DEBUG] [2025-04-01 15:08:14,038]: ON set_beep: executed [255, 252, 5, 2, 244, 1, 252]
+[DEBUG] [2025-04-01 15:08:15,049]: Destructor called, serial connection closed.
