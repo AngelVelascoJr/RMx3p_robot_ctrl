@@ -1,0 +1,33 @@
+/the_arm_param_srv:
+  ros__parameters:
+    arm:
+      arm_group:
+        joint_names:
+        - arm_joint_1
+        - arm_joint_2
+        - arm_joint_3
+        - arm_joint_4
+        - arm_joint_5
+        poses:
+          home:
+          - 0.0
+          - 0.7854
+          - -1.5708
+          - -1.5708
+          - 0.0
+          zero:
+          - 0.0
+          - 0.0
+          - 0.0
+          - 0.0
+          - 0.0
+      gripper_gropu:
+        joint_names:
+        - gripper_joint
+        poses:
+          close:
+          - 0.0
+          open:
+          - -1.54
+    use_sim_time: false
+

@@ -22,7 +22,9 @@ setup(
         'console_scripts': [
             'buzzer_listener = driver_pkg.Test_Buzzer:main',
             'gripper_listener = driver_pkg.gripper_ctrl:main',
-            'test_params = driver_pkg.Test_params:init_node'
+            'test_params = driver_pkg.Test_params:init_node',
+            'arm_params = driver_pkg.arm_ctrl_params:init_node',
+            'arm_params_client = driver_pkg.arm_param_srv_cte:init_node'
         ],
     },
 )
